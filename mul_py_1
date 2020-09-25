@@ -1,0 +1,15 @@
+#  변수 사용법과 입출력 배우기
+
+# 1)   var1  이름의 변수를 만들고 10의 값을 할당하세요
+var1 = 10
+print(var1)
+
+# 2)  var2 이름의 변수를 만들고 20의 값을 할당하세요
+var2 = 20
+print(var2)
+
+# 3) 다양한 연산자 사용하기
+
+print(var1 + var2)
+print(var1 * var2)
+print(var1 / var2)
